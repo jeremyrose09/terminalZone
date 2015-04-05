@@ -1,0 +1,11 @@
+TerminalZone
+Created By:
+    Hunter Quant
+    Edward Pryor
+    Nick Marasco
+    Shane Peterson
+    Brandon Williams
+    Jeremy Rose
+
+A game developed as part of a class project of Game Design and Development
+at SUNY Potsdam in the Fall of 2015.
